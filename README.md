@@ -1,6 +1,6 @@
 # Face Recognition and Registration System
 
-![Face Recognition](assets\face-recognition.png)
+![Face Recognition](./assets/face-recognition.png)
 
 ## Overview
 
